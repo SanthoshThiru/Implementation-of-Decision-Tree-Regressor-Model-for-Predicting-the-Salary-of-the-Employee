@@ -81,6 +81,7 @@ dt.predict([[5,6]])
 
 
 ### data.head() for position
+![image](https://github.com/SanthoshThiru/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/148958618/2bd6d3c9-cfc2-4691-af28-b5990cb0f800)
 
 
 ### MSE value
